@@ -1,6 +1,6 @@
 # Prazer, me chamo Lucca! :)
 
-Estudante de Análise e Desenvolvimento de Sistemas na **PUCRS**.  
+Estudo Análise e Desenvolvimento de Sistemas na **PUCRS**.  
 AMO tecnologia e atualmente estou focado em me tornar um desenvolvedor Full Stack.
 
 ### 🛠️ Tecnologias e Ferramentas:
@@ -10,7 +10,7 @@ AMO tecnologia e atualmente estou focado em me tornar um desenvolvedor Full Stac
 
 ### 📚 No momento:
 - Aprofundando conhecimentos em **React** e **Java**.
-- Aberto a oportunidades de estágio e colaborações em projetos open-source.
+- Aberto a oportunidades de estágio e colaborações em projetos open-source!
 
 ---
 📫 **Como me encontrar:** jacobylucca@outlook.com
