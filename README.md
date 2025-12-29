@@ -1,4 +1,4 @@
-# Prazer, me chamo [Lucca]! :)
+# Prazer, me chamo Lucca! :)
 
 Estudante de Análise e Desenvolvimento de Sistemas na **PUCRS**.  
 AMO tecnologia e atualmente estou focado em me tornar um desenvolvedor Full Stack.
@@ -13,4 +13,4 @@ AMO tecnologia e atualmente estou focado em me tornar um desenvolvedor Full Stac
 - Aberto a oportunidades de estágio e colaborações em projetos open-source.
 
 ---
-📫 **Como me encontrar:** [jacobylucca@outlook.com]
+📫 **Como me encontrar:** jacobylucca@outlook.com
