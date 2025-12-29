@@ -1,16 +1,16 @@
-## Hi there 👋
+# Prazer, me chamo [Lucca]! :)
 
-<!--
-**jacobylucca/jacobylucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas na **PUCRS**.  
+AMO tecnologia e atualmente estou focado em me tornar um desenvolvedor Full Stack.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas:
+- **Linguagens:** C, Java, Python
+- **Web:** HTML5, CSS3, React
+- **Outros:** Excel Intermediário, Inglês Avançado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 No momento:
+- Aprofundando conhecimentos em **React** e **Java**.
+- Aberto a oportunidades de estágio e colaborações em projetos open-source.
+
+---
+📫 **Como me encontrar:** [jacobylucca@outlook.com]
