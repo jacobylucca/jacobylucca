@@ -5,11 +5,12 @@ AMO tecnologia e atualmente estou focado em me tornar um desenvolvedor Full Stac
 
 ### 🛠️ Tecnologias e Ferramentas:
 - **Linguagens:** C, Java, Python
-- **Web:** HTML5, CSS3, React
+- **Web:** HTML5, CSS3, Angular
 - **Outros:** Excel Intermediário, Inglês Avançado
 
 ### 📚 No momento:
-- Aprofundando conhecimentos em **React** e **Java**.
+- Aprofundando conhecimentos em **Java** e **Angular**.
+  
 - Aberto a oportunidades de estágio e colaborações em projetos open-source!
 
 ---
