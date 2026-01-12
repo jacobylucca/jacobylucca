@@ -1,6 +1,6 @@
-# Olá, eu sou o Lucca Jacoby 👋
+# Muito prazer! Pode me chamar de Lucca! :) 
 
-Estudante de **Análise e Desenvolvimento de Sistemas na PUCRS**. Atualmente, foco meus estudos e projetos no desenvolvimento **Back-end utilizando Java e Spring Boot**.
+Estudo **Análise e Desenvolvimento de Sistemas na PUCRS**. Atualmente, foco meus estudos e projetos no desenvolvimento **Back-end utilizando Java e Spring Boot**!
 
 ### 🛠 Tecnologias e Ferramentas
 - **Linguagens:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -13,5 +13,5 @@ Estudante de **Análise e Desenvolvimento de Sistemas na PUCRS**. Atualmente, fo
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobylucca&layout=compact&theme=dracula)
 
 ### 📫 Contato
-- **LinkedIn:** [Seu Link Aqui]
+- **LinkedIn:** https://www.linkedin.com/in/lucca-jacoby-2aa81139a/
 - **E-mail:** jacobylucca@outlook.com
