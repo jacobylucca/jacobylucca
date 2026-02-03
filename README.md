@@ -1,5 +1,5 @@
-# Muito prazer! Pode me chamar de Lucca! :) 
-<img width="860" height="218" alt="Captura de tela 2026-02-03 000703" src="https://github.com/user-attachments/assets/2c2f2032-845f-4a22-9fc2-4bb7a023f033" />
+# Muito prazer! Pode me chamar de Lucca!
+<img width="879" height="218" alt="aaaaaaa" src="https://github.com/user-attachments/assets/2d5ad1e7-97c1-4b37-bab9-8679fb12c09e" />
 
 Estudo **Análise e Desenvolvimento de Sistemas na PUCRS**. Atualmente, foco meus estudos e projetos no desenvolvimento **Back-end utilizando Java e Spring Boot**!
 
@@ -12,7 +12,7 @@ Estudo **Análise e Desenvolvimento de Sistemas na PUCRS**. Atualmente, foco meu
 Tecnologias e Ferramentas
 - **Linguagens:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - **Frameworks/Libs:** ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-- **Banco de Dados:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- **Banco de Dados:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 - **Ferramentas:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
