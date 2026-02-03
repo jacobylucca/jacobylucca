@@ -1,5 +1,5 @@
 # Muito prazer! Pode me chamar de Lucca! :) 
-<img width="830" height="218" alt="Captura de tela 2026-02-03 000703" src="https://github.com/user-attachments/assets/2c2f2032-845f-4a22-9fc2-4bb7a023f033" />
+<img width="860" height="218" alt="Captura de tela 2026-02-03 000703" src="https://github.com/user-attachments/assets/2c2f2032-845f-4a22-9fc2-4bb7a023f033" />
 
 Estudo **Análise e Desenvolvimento de Sistemas na PUCRS**. Atualmente, foco meus estudos e projetos no desenvolvimento **Back-end utilizando Java e Spring Boot**!
 
